@@ -1,0 +1,6 @@
+{
+  "name": "Plume Style — Digital Product Factory",
+  "description": "Luxury editorial lookbook generator and Etsy digital product factory for Plume Digital Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
